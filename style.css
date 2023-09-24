@@ -1,0 +1,37 @@
+body
+{
+    font-family: 'Kenia', cursive;
+    background:linear-gradient(#eb3349 0%,#f45c43 100%);
+}
+.header_div
+{
+    background:deepskyblue;
+    color:crimson;
+}
+.header_div p
+{
+    font-family: 'Kenia', cursive;
+    color:gray;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight:bold;
+}
+.main_div button
+{
+    font-family: 'Sedgwick Ave Display', cursive;
+    margin-top:30px;
+    font-weight:bolder;
+    letter-spacing:3px;
+}
+.copy_right_footer
+{
+    position:fixed;
+    color:wheat;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color:springgreen;
+    line-height:3;
+    text-align:center;
+    text-shadow: 5px 5px 5px palegoldenrod;
+}
