@@ -25,7 +25,7 @@ body
 }
 .copy_right_footer
 {
-    position:fixed;
+    position:center;
     color:wheat;
     bottom:0;
     width:100%;
